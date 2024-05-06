@@ -1,7 +1,7 @@
 # Skill-Test
 Problem: 
 
-Develop a stenography evaluation system that accurately assesses the performance of stenography candidates by comparing their transcripts to a master file. The system should adhere to the evaluation guidelines specified, including the classification of mistakes, calculation of error percentages, and handling of alternate word forms. 
+Develop a Stenography/Typing Test evaluation system that accurately assesses the performance of candidates by comparing their transcripts to a master file. The system should adhere to the evaluation guidelines specified, including the classification of mistakes, calculation of error percentages, and handling of alternate word forms. 
 
 Input: 
 
